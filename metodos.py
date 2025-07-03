@@ -31,3 +31,7 @@ lista2 = ['banana', 'maca', 'pêra', 'morango', 'kiwi', 'banana']
 # MÉTODO .count(ITEM PROCURADO) -> Conta o nujmero de vezes que o item aparece na lista
 
 print(lista2.count('banana'))
+
+#MÉTODO LEN (NOME DA LISTA) -> Retorna o tamanho de ua lista
+
+print(len(lista2))
